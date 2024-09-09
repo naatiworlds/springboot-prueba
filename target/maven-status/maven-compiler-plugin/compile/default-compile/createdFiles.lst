@@ -1,2 +1,3 @@
 com\ejemplo\miapi\MiApiApplication.class
+com\ejemplo\miapi\config\CorsConfig.class
 com\ejemplo\miapi\controller\HelloController.class
